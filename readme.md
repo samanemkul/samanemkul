@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samanemkul&label=Profile%20views&color=0e75b6&style=flat" alt="samanemkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andipstha&label=Profile%20views&color=0e75b6&style=flat" alt="samanemkul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanemkul" alt="samanemkul" /></a> </p>
 
