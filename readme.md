@@ -13,11 +13,8 @@
 
 - 👨‍💻 All of my projects are available at --
 
-- 📝 I regularly write articles on --
+- 📫 How to reach me nemkulsama1@gmail.com
 
-- 📫 How to reach me --
-
-- 📄 Know about my experiences --
 
 - ⚡ Fun fact --
 
