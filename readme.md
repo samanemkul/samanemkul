@@ -7,16 +7,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanemkul" alt="samanemkul" /></a> </p>
 
 
-- 🔭 I’m currently working on --
+- 🔭 I’m currently IT student
 
 - 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at --
 
 - 📫 How to reach me nemkulsama1@gmail.com
-
-
-- ⚡ Fun fact --
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
