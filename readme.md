@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently IT student
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at --
 
