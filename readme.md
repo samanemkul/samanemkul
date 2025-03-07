@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanemkul" alt="samanemkul" /></a> </p>
 
-- 🌱 I’m currently learning **DRF**
 
 - 📫 How to reach me **nemkulsama1@gmail.com**
 
